@@ -172,3 +172,4 @@ flagged/
 # Docs
 .cache
 mkdocs-material-insiders
+data/
